@@ -5,7 +5,7 @@
 
 <h3 align="center">Telegram Bot Builder • Web Development • Automation</h3>
 
-## 🚀 About Codiifybots
+## About Codiifybots
 Codiifybots is focused on **building advanced Telegram Bots and Web Applications**.  
 We believe in **automation, clean design, and open-source contribution**.  
 
@@ -30,9 +30,6 @@ We believe in **automation, clean design, and open-source contribution**.
 ---
 
 ## 🤖 Telegram Bot Builder
-<p align="center">
-  <img src="https://www.svgrepo.com/show/353655/telegram.svg" width="60"/>
-</p>
 
 A **next-gen bot framework** to build professional Telegram Bots.
 
