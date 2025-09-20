@@ -4,7 +4,6 @@
 </p>
 
 <h3 align="center">Telegram Bot Builder • Web Development • Automation</h3>
----
 
 ## 🚀 About Codiifybots
 Codiifybots is focused on **building advanced Telegram Bots and Web Applications**.  
@@ -43,29 +42,6 @@ A **next-gen bot framework** to build professional Telegram Bots.
 - **Admin Dashboard**
 - **AI + Media Processing**
 - One-click **Cloud Deployment**
-
----
-
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codiifybots&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Codiifybots&theme=tokyonight&hide_border=true" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codiifybots&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://t.me/Codiifybots"><img src="https://skillicons.dev/icons?i=telegram" width="50"/></a>
-  <a href="https://github.com/Codiifybots"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-  <a href="https://linkedin.com/in/Codiifybots"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="https://twitter.com/Codiifybots"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-</p>
-
 ---
 
 <!-- Footer Banner -->
