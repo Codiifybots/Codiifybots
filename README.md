@@ -6,7 +6,7 @@
 <h3 align="center">Telegram Bot Builder • Web Development • Automation</h3>
 
 <p align="center">
-  <img src="https://github.com/Codiifybots.png" width="150" style="border-radius:50%; box-shadow:0px 0px 20px rgba(0,0,0,0.3)" />
+  <img src="[https://github.com/Codiifybots.png](https://avatars.githubusercontent.com/u/233480841?v=4&size=64)" width="150" style="border-radius:50%; box-shadow:0px 0px 20px rgba(0,0,0,0.3)" />
 </p>
 
 ---
