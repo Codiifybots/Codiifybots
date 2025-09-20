@@ -4,11 +4,6 @@
 </p>
 
 <h3 align="center">Telegram Bot Builder • Web Development • Automation</h3>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/233480841?v=4&size=64" width="150" style="border-radius:50%; box-shadow:0px 0px 20px rgba(0,0,0,0.3)" />
-</p>
-
 ---
 
 ## 🚀 About Codiifybots
@@ -48,17 +43,6 @@ A **next-gen bot framework** to build professional Telegram Bots.
 - **Admin Dashboard**
 - **AI + Media Processing**
 - One-click **Cloud Deployment**
-
-📌 Repository → [Telegram Bot Builder](https://github.com/Codiifybots/telegram-bot-builder)
-
----
-
-## 📂 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [Background Remover](https://github.com/Codiifybots/bg-remover) | AI-powered tool to remove image backgrounds |
-| [Rename Bot 4GB](https://github.com/Codiifybots/rename-bot) | Advanced file renaming bot with DB support |
-| [Live Chat](https://github.com/Codiifybots/live-chat) | Modern chat system integrated with Telegram |
 
 ---
 
